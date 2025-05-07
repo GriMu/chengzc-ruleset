@@ -467,3 +467,8 @@ USER-AGENT,*com.google.ios.youtubemusic*
 USER-AGENT,YouTubeMusic*
 USER-AGENT,com.google.ios.youtubemusic*
 DOMAIN,music.youtube.com
+
+# emby
+DOMAIN-KEYWORD,niceduck
+DOMAIN-SUFFIX,emby.moe
+DOMAIN-SUFFIX,cf.irisnb.com
